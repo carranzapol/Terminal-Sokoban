@@ -11,6 +11,7 @@ Características Destacadas:
 Implementación en C: El juego está escrito en el lenguaje de programación C, lo que garantiza eficiencia y rendimiento.
 Interfaz de Terminal: La interfaz de usuario se presenta en la terminal, proporcionando una experiencia de juego ligera y accesible.
 Rompecabezas Desafiantes: Sokoban ofrece niveles progresivamente desafiantes que pondrán a prueba tu habilidad para planificar y ejecutar movimientos estratégicos.
+
 Instrucciones de Uso:
 
 Clona el repositorio en tu máquina local.
